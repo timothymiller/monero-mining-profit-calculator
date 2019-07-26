@@ -1,0 +1,1 @@
+# monero-mining-profit-calculator
