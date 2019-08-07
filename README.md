@@ -1,4 +1,4 @@
-# Monero Mining Profit Calculation
+# Monero Mining Profit Calculator
 
 ## Whitepaper
 <a href="https://github.com/timothymiller/monero-mining-profit-calculator/blob/master/Monero%20Mining%20Whitepaper.pdf">Read the Whitepaper here</a>
